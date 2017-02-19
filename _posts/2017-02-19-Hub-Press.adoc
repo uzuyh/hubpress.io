@@ -1,0 +1,7 @@
+= HubPress 使ってみた
+:hp-tags: hubpress
+
+### HubPressってなに？
+以下のサイトを読むとよく分かるよ。↓
+
+https://github.com/HubPress/hubpress.io/blob/master/README-ja.adoc
