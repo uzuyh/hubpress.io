@@ -6,10 +6,10 @@
   },
   "site": {
     "title": "(●・▽・●)",
-    "cover": "2574b1f8-s.jpg"
+    "cover": "/images/2574b1f8-s.jpg"
   },
   "socialnetwork": {
-    "github": "uzuyh"
+    "github": ""
   },
   "theme": {
     "name": "saga"
