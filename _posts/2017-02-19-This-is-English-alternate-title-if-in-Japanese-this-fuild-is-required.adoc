@@ -1,4 +1,5 @@
 = ちがうやつ
+:hp-alt-title: This is English alternate title. if in Japanese, this fuild is required!
 :hp-image: /images/cover/test.jpg
 
 ### サムネの確認
