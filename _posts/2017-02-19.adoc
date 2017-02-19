@@ -1,0 +1,4 @@
+= ちがうやつ
+:hp-image: /images/cover/test.jpg
+
+### サムネの確認
