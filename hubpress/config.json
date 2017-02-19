@@ -8,7 +8,9 @@
     "title": "(●・▽・●)",
     "cover": "2574b1f8-s.jpg"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "github": "uzuyh"
+  },
   "theme": {
     "name": "saga"
   }
