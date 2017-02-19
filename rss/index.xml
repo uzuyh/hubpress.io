@@ -1,9 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[(●・▽・●)]]></title><description><![CDATA[(●・▽・●)]]></description><link>https://uzuyh.github.io/hubpress.io</link><image><url>/images/2574b1f8-s.jpg</url><title>(●・▽・●)</title><link>https://uzuyh.github.io/hubpress.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Feb 2017 11:27:46 GMT</lastBuildDate><atom:link href="https://uzuyh.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[ちがうやつ]]></title><description><![CDATA[<div class="sect2">
-<h3 id="__">サムネの確認</h3>
-
-</div>]]></description><link>https://uzuyh.github.io/hubpress.io/2017/02/19/This-is-English-alternate-title-if-in-Japanese-this-fuild-is-required.html</link><guid isPermaLink="true">https://uzuyh.github.io/hubpress.io/2017/02/19/This-is-English-alternate-title-if-in-Japanese-this-fuild-is-required.html</guid><pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Test]]></title><description><![CDATA[<div class="sect2">
-<h3 id="_hoge">hoge</h3>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[(●・▽・●)]]></title><description><![CDATA[(●・▽・●)]]></description><link>https://uzuyh.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Feb 2017 13:05:37 GMT</lastBuildDate><atom:link href="https://uzuyh.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HubPress始めました]]></title><description><![CDATA[<div class="sect1">
+<h2 id="_hubpress">HubPressとは</h2>
+<div class="sectionbody">
 <div class="paragraph">
-<p><span class="image"><img src="https://uzuyh.github.io/hubpress.io/images/2574b1f8-s.jpg" alt="2574b1f8 s.jpg"></span></p>
+<p>以下のサイトに説明が全部載ってるよ。↓
+<a href="https://github.com/HubPress/hubpress.io/blob/development/docs/README-ja.adoc" class="bare">https://github.com/HubPress/hubpress.io/blob/development/docs/README-ja.adoc</a></p>
 </div>
-</div>]]></description><link>https://uzuyh.github.io/hubpress.io/2017/02/19/Test.html</link><guid isPermaLink="true">https://uzuyh.github.io/hubpress.io/2017/02/19/Test.html</guid></item></channel></rss>
+<div class="paragraph">
+<p>画像のアップだけ扱いづらいです。
+イメージファイルをimagesフォルダにいちいちコミットしないといけない。</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://uzuyh.github.io/hubpress.io/images/icon.png" alt="icon.png">
+</div>
+</div>
+</div>
+</div>]]></description><link>https://uzuyh.github.io/hubpress.io/2017/02/19/English-title.html</link><guid isPermaLink="true">https://uzuyh.github.io/hubpress.io/2017/02/19/English-title.html</guid><category><![CDATA[HubPress]]></category><pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate></item></channel></rss>
