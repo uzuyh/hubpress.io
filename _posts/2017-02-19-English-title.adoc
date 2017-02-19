@@ -1,0 +1,13 @@
+= HubPress始めました
+:hp-tags: HubPress
+:hp-alt-title: English title
+
+
+== HubPressとは
+以下のサイトに説明が全部載ってるよ。↓
+https://github.com/HubPress/hubpress.io/blob/development/docs/README-ja.adoc
+
+画像のアップだけ扱いづらいです。
+イメージファイルをimagesフォルダにいちいちコミットしないといけない。
+
+image::icon.png[]
