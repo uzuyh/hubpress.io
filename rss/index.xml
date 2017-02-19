@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://uzuyh.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Feb 2017 07:17:30 GMT</lastBuildDate><atom:link href="https://uzuyh.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HubPress 使ってみた]]></title><description><![CDATA[<div class="sect2">
-<h3 id="_hubpress">HubPressってなに？</h3>
-<div class="paragraph">
-<p>以下のサイトを読むとよく分かるよ。↓</p>
-</div>
-<div class="paragraph">
-<p><a href="https://github.com/HubPress/hubpress.io/blob/master/README-ja.adoc" class="bare">https://github.com/HubPress/hubpress.io/blob/master/README-ja.adoc</a></p>
-</div>
-</div>]]></description><link>https://uzuyh.github.io/hubpress.io/2017/02/19/Hub-Press.html</link><guid isPermaLink="true">https://uzuyh.github.io/hubpress.io/2017/02/19/Hub-Press.html</guid><category><![CDATA[hubpress]]></category><pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://uzuyh.github.io/hubpress.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 19 Feb 2017 08:40:35 GMT</lastBuildDate><atom:link href="https://uzuyh.github.io/hubpress.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[test]]></title><description><![CDATA[<div class="sect2">
+<h3 id="_test">test</h3>
+
+</div>]]></description><link>https://uzuyh.github.io/hubpress.io/2017/02/19/test.html</link><guid isPermaLink="true">https://uzuyh.github.io/hubpress.io/2017/02/19/test.html</guid><category><![CDATA[sample]]></category><pubDate>Sun, 19 Feb 2017 00:00:00 GMT</pubDate></item></channel></rss>
