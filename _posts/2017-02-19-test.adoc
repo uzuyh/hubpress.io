@@ -1,6 +1,0 @@
-= test
-:hp-image: icon.png[]
-:hp-tags: sample
-
-### test
-
