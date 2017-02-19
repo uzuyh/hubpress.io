@@ -1,6 +1,0 @@
-= Test
-:hp-images: /images/2574b1f8-s.jpg
-:hp-tags: sample
-
-### hoge
-image:2574b1f8-s.jpg[]
