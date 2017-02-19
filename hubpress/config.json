@@ -6,13 +6,13 @@
   },
   "site": {
     "title": "(●・▽・●)",
-    "logo": "http://uzuyh.github.io/hubpress.io/images/icon.png",
-    "cover": "http://uzuyh.github.io/hubpress.io/images/2574b1f8-s.jpg"
+    "logo": "",
+    "cover": ""
   },
   "socialnetwork": {
     "github": "https://github.com/uzuyh"
   },
   "theme": {
-    "name": "saga"
+    "name": "ichi"
   }
 }
