@@ -1,10 +1,18 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
-    "branch": "master"
+    "username": "uzuyh",
+    "repositoryName": "hubpress.io",
+    "branch": "gh-pages"
+  },
+  "site": {
+    "title": "(●・▽・●)",
+    "logo": "http://uzuyh.github.io/hubpress.io/images/icon.png",
+    "cover": "http://uzuyh.github.io/hubpress.io/images/2574b1f8-s.jpg"
+  },
+  "socialnetwork": {
+    "github": "https://github.com/uzuyh"
   },
   "theme": {
-    "name": "Casper"
+    "name": "saga"
   }
 }
